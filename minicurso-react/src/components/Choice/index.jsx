@@ -1,4 +1,3 @@
-import { useState } from "react"
 import * as S from "./style"
 import pedra from "../../assets/pedra.png"
 import papel from "../../assets/papel.png"
